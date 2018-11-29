@@ -5,9 +5,9 @@
   <subtitle>Artificial intelligence related information</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://finesure2017.github.io/"/>
   <updated>2018-11-29T06:42:19.543Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://finesure2017.github.io/</id>
   
   <author>
     <name>Star</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/28/hello-world/"/>
-    <id>http://yoursite.com/2018/11/28/hello-world/</id>
+    <link href="https://finesure2017.github.io/2018/11/28/hello-world/"/>
+    <id>https://finesure2017.github.io/2018/11/28/hello-world/</id>
     <published>2018-11-28T14:30:11.670Z</published>
     <updated>2018-11-29T06:42:19.543Z</updated>
     
@@ -34,12 +34,12 @@
     
     </summary>
     
-      <category term="welcome page" scheme="http://yoursite.com/categories/welcome-page/"/>
+      <category term="welcome page" scheme="https://finesure2017.github.io/categories/welcome-page/"/>
     
-      <category term="First page" scheme="http://yoursite.com/categories/welcome-page/First-page/"/>
+      <category term="First page" scheme="https://finesure2017.github.io/categories/welcome-page/First-page/"/>
     
     
-      <category term="welcome" scheme="http://yoursite.com/tags/welcome/"/>
+      <category term="welcome" scheme="https://finesure2017.github.io/tags/welcome/"/>
     
   </entry>
   
